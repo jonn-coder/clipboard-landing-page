@@ -336,6 +336,7 @@ footer .social-links a:hover, footer nav ul li a:hover {
 
   .hero .buttons button {
     padding: 1em 2em;
+    width: initial;
   }
   
   .contents-top {
